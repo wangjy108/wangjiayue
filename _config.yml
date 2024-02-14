@@ -1,0 +1,51 @@
+# Basic Information 
+title: Wang Jiayue
+position: CADD researcher
+affiliation: DPTechnology
+#affiliation_link: https:
+#affiliation_logo: ./assets/img/
+email: max.wangjy108(at)gmail.com
+
+# Search Engine Optimization (SEO)
+#keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
+#canonical: 
+#description: 
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: icon #text/icon
+google_scholar: https://scholar.google.com/citations?user=PRuWWDgAAAAJ&hl=en
+#cv_link: https://_Curriculum_Vitae.pdf
+github_link: https://github.com/wangjy108
+linkedin: https://www.linkedin.com/in/jiayue-wang-1a1253246/
+#blog: 
+#twitter: 
+
+# Images 
+avatar: ./assets/img/headshot.jpg
+#favicon: ./assets/img/favicon.png
+#favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnotes
+footnote: be water, my friend
+#footnote_link: 
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+#clustrmaps_id: 
+
+
+# The following files will be removed from the generated website.
+exclude:
+#  - build.sh
+#  - Gemfile
+#  - Gemfile.lock
+  - README.md
+  - LICENSE
+#  - CNAME
